@@ -1,0 +1,172 @@
+ 
+body{
+	padding: 0px;
+	margin:0px;
+}
+div{
+	margin-bottom: 0px;
+}
+.vacio{
+	height: 10px;
+	background:#EFECE7;
+}
+.contenedor{
+	background: #DDD7CB;
+}
+.conten{
+	width: 960px;
+	margin: 0px auto;
+	display: flex;
+}
+.logo{
+	display: flex;
+}
+.logo img:nth-child(1){
+	margin-top: 15px;
+    height: 110px;
+    width: 80px;
+    margin-right: 15px;
+}
+.logo img:nth-child(2){
+    width: 240px;
+    height: 100px;
+    margin-top:15px;
+}
+.conten .col-md-6{
+	padding: 15px 14px;
+}
+.login{
+	display: flex;
+	margin: 15px 0px 0px 0px;
+}
+.login input{
+	border-radius: 3px;
+	padding: 4px 0px 4px 0px;
+}
+.login .col-md-5:nth-child(1){
+    margin-top: 27px;
+}
+.login .col-md-2 input{
+	background: #95917F;
+    margin-top: 26px;
+    color: white;
+    border: none;
+    padding: 6px 19px;
+    padding-right: 16px;
+
+}
+.login .col-md-5 h6{
+	margin-bottom: 3px;
+}
+.conten2{
+	width: 960px;
+	margin: 0px auto;
+	background: #ED9819;
+}
+.conten2 ul{
+	width: 100%;
+	display: inline-block;
+	padding: 10px 15px;
+}
+.conten2 ul li{
+	list-style: none;
+	display: inline-block;
+	border-width: 0px 3px 0px 3px;
+    border-right: 3px solid white;
+}
+.conten2 ul li:first-child{
+	 border-left: 3px solid white;
+}
+.conten2 ul li a{
+	text-decoration: none;
+	color: white;
+	padding: 10px 15px;
+}
+.conten2 ul li a img{
+	margin: 5px 15px 5px 15px;
+}
+.conten2 ul li a:hover{
+	background: rgba(234, 177, 83, 1);
+}
+.des{
+	width: 100%;
+}
+.content .redondo .img-circle{
+		width: 40%
+}
+.redondo{
+	background: white;
+	padding:50px;
+	border: 1px solid gray;
+}
+.mimi{
+	margin: 3px;
+}
+.redes{
+	background: #95917F;
+	padding:10px;
+	text-align: center;
+}
+.pie{
+	background: black;
+}
+.ult{
+	background: black;
+}
+.ult p{
+	color: white;
+}
+.director{
+	width: 210%;
+}
+.redondos{
+	display: flex;
+	background: white;
+	padding:30px 50px 50px 50px;
+	border: 1px solid gray;
+}
+.informacion{
+	padding: 30px 30px 30px 0px
+}
+.informacion p{
+	 padding: 0px 10px;
+}
+.director .img-thumbnail{
+	padding: 0px 0px 0px 0px;
+	margin-top: 40px;
+    margin-bottom: 10px;
+
+}
+.redondos2{
+	display: flex;
+	background: white;
+	padding:0px 0px 10px 0px;
+	border: 1px solid gray;
+    padding-bottom: 0px;
+}
+.conten2 .text-center{
+    margin-bottom: 0px;
+}
+.redondi{
+	display: flex;
+	background: white;
+	padding:50px;
+	border: 1px solid gray;
+}
+.redondi img:hover{
+	background: rgba(234, 177, 83, 1);
+}
+
+
+/*arreglando las carreras*/
+h3{
+	margin:10px;
+}
+h4:hover ,h3:hover{
+	color: rgba(234, 177, 83, 1);
+}
+.redondo .text-center img{
+	border-radius: 20px;
+	border: 3px solid gray;
+
+}

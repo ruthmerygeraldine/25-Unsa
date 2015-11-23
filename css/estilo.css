@@ -1,0 +1,51 @@
+div{
+	outline: red 1px solid;
+}
+.ing img{ padding: 20px 0 50px 0 !important;
+      width: 980px !important;
+}
+.container{
+	font-family: 'Lato', sans-serif;
+}
+p, .descri{
+padding: 5px 100px ;
+text-align: justify;
+}
+
+h4 .descrip{
+	color: #DDD7CB;
+}
+ul{
+	padding: 5px 550px !important;
+	width: 1500px;
+}
+.un{
+	padding-top: 30px;
+	padding-bottom: 10px;
+}
+.institucion{
+	width: 960px;
+	margin-left: 90px;
+	text-align: justify;
+}
+.institucion ul{
+    background: none !important;
+    border: none !important;
+}
+.institucion li{
+    background: none !important;
+    border: none !important;
+}
+.teo{
+	padding-right: 500px
+}
+.ob{
+	padding-left: 500px;
+}
+p img{
+	height: 200px;
+	position: absolute;
+	left: 1000px;
+	bottom: -50%
+
+}
