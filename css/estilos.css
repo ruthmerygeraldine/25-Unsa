@@ -1,0 +1,119 @@
+div{
+	outline: red solid 1px;
+}
+.boletin, .eventos{
+	margin-top: 30px;
+}
+.bole img{
+	height: 200px;
+	width: 250px;
+}
+.ene{
+	height: 50px;
+	width: 50px;
+	font-size: 15px;
+}
+.img{
+	margin-top: 15px;
+}
+.enviar{
+	margin-top: 45px;
+}
+.color1{
+	background-color: #D3D3D3;
+	margin-top: 30px;
+}
+.carousel-inner{
+	margin-bottom: 50px;
+	margin-top: 30px;
+}
+.video-responsive {
+    position: relative;
+    margin-bottom: 20px;
+    padding-top: 56.25%;
+}
+.video-responsive iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+.nav-tabs > li.active > a, .nav-tabs > li.active > a:hover, .nav-tabs > li.active > a:focus{
+	background-color: grey;
+}
+.des{
+	margin-left: 30px;
+}
+.pag{
+	margin-top:20px; 
+}
+´.pie{
+	color: white;
+	background-color: black;
+
+}
+/* profesores style */
+.thumbnail img ,.col-sm-4 img{
+	height: 250px;
+	width: 200px;
+}
+.per, .tre{
+	margin-top: 50px;
+}
+.pro img{
+	height: 250px;
+	width: 300px;
+}
+/*menyy*/
+.jimgMenu {
+	position: relative;
+	width: 670px;
+	height: 200px;
+	overflow: hidden;
+	margin: 25px 0px 0px;
+}
+
+.jimgMenu ul {
+	list-style: none;
+	margin: 0px;
+	display: block;
+	height: 200px;
+	width: 1340px;
+	
+	}
+
+.jimgMenu ul li {
+	float: left;
+}
+
+.jimgMenu ul li a {
+	text-indent: -1000px;
+	background:#FFFFFF none repeat scroll 0%;
+	border-right: 2px solid #fff;
+	cursor:pointer;
+	display:block;
+	overflow:hidden;
+	width:78px;
+	height: 200px;
+}
+
+.jimgMenu ul li.ing-indus a {
+	background: url(../carreras/ing-ins/industrial.jpg) repeat scroll 0%;
+}
+.jimgMenu ul li.ing-meca a {
+	background: url(../carreras/ing-mec/ing-meca.jpg) repeat scroll 0%;
+}
+.jimgMenu ul li.ing-elec a {
+	background: url(../carreras/ing-electri/elec.jpg) repeat scroll 0%;
+}
+.jimgMenu ul li.ing-electro a {
+	background: url(../carreras/ing-electro/electro.jpg) repeat scroll 0%;
+}
+.jimgMenu ul li.ing-sis a {
+	background: url(../carreras/ing-sis/sistemas1.jpg) repeat scroll 0%;
+}
+.jimgMenu ul li.cien-com a {
+	background: url(../carreras/cien-com/comp.jpg) repeat scroll 0%;
+	min-width:310px;	
+}
