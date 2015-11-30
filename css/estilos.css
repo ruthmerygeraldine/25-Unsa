@@ -1,6 +1,6 @@
-div{
+/*div{
 	outline: red solid 1px;
-}
+}*/
 .boletin, .eventos{
 	margin-top: 30px;
 }
@@ -9,9 +9,11 @@ div{
 	width: 250px;
 }
 .ene{
-	height: 50px;
-	width: 50px;
-	font-size: 15px;
+	height: 70px;
+	width: 70px;
+	font-size: 20px;
+	background-color: #A30936;
+	color: white;
 }
 .img{
 	margin-top: 15px;
@@ -45,13 +47,24 @@ div{
 .des{
 	margin-left: 30px;
 }
-.pag{
-	margin-top:20px; 
+.pag img{
+	height: 40px;
+	width: 40px;
+	margin-top:15px; 
+	margin-bottom: 15px;
 }
 ´.pie{
 	color: white;
 	background-color: black;
+}
+.ult{
 
+    padding-top: 15px;
+    padding-bottom: 15px;
+	background: black;
+}
+.ult p{
+	color: white;
 }
 /* profesores style */
 .thumbnail img ,.col-sm-4 img{
@@ -68,7 +81,7 @@ div{
 /*menyy*/
 .jimgMenu {
 	position: relative;
-	width: 670px;
+	width: 810px;
 	height: 200px;
 	overflow: hidden;
 	margin: 25px 0px 0px;
@@ -79,7 +92,7 @@ div{
 	margin: 0px;
 	display: block;
 	height: 200px;
-	width: 1340px;
+	width: 1540px;
 	
 	}
 
@@ -97,7 +110,6 @@ div{
 	width:78px;
 	height: 200px;
 }
-
 .jimgMenu ul li.ing-indus a {
 	background: url(../carreras/ing-ins/industrial.jpg) repeat scroll 0%;
 }
@@ -114,9 +126,8 @@ div{
 	background: url(../carreras/ing-sis/sistemas1.jpg) repeat scroll 0%;
 }
 .jimgMenu ul li.cien-com a {
-	background: url(../carreras/cien-com/comp.jpg) repeat scroll 0%;
-	min-width:310px;	
+	background: url(../carreras/cien-com/comp.jpg) repeat scroll 0%;	
 }
-.ult p{
-	color: white;
-}
+.jimgMenu ul li.tele a {
+	background: url(../carreras/tele/telecomunc.jpg) repeat scroll 0%;
+	min-width:310px;
