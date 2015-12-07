@@ -8,6 +8,9 @@
 	height: 200px;
 	width: 250px;
 }
+.bo{
+	margin-top: 20px;
+}
 .ene{
 	height: 70px;
 	width: 70px;
@@ -17,6 +20,11 @@
 }
 .img{
 	margin-top: 15px;
+	border-radius: 50px 15px;
+}
+.tin{
+	border-bottom: 1px #C7C5AC dotted;
+	padding-bottom: 20px;
 }
 .enviar{
 	margin-top: 45px;
@@ -139,8 +147,8 @@
 .jimgMenu ul li.tele a {
 	background: url(../carreras/tele/telecomunc.jpg) repeat scroll 0%;
 	min-width:310px;
-
 }
+
 form {
     width: 450px;
     margin: auto;
